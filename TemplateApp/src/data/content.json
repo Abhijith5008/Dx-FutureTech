@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "The Agreement is made by and between" },
+        { "id": 2, "name": "Use of Property", "description": "The tenant shall use the property only for residential purposes. During the Term of this Agreement the Tenant shall act with care and prudence tp prevant dmanage to the property at all times" },
+        { "id": 3, "name": "Utilities", "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the" }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "Real Estate",
+      "signType": "E-Sign",
+      "name": "Template Name",
+      "descripton": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "companyName": "ACME STONE",
+      "companyLogo": "../../assets/images/logo.png",
+      "AgreementType": "Lease Agreement",
+      "rule": [
+        { "id": 1, "name": "Parties, Leased Property, Term and Payment", "description": "" },
+        { "id": 2, "name": "Use of Property", "description": "" },
+        { "id": 3, "name": "Utilities", "description": "" }
+      ]
+    }
+  ]
+  
