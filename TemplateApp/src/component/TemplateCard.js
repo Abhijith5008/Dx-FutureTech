@@ -18,7 +18,7 @@ const TemplateCard = ({ template }) => {
                     </View>
                     <Text style={[styles.cardTitleText, { fontSize: 12, marginRight: 5 }]}>{template.AgreementType}</Text>
                 </View>
-                <Divider style={{ height: 5, marginHorizontal: 15, marginTop: -5, backgroundColor: "yellow" }} />
+                <Divider style={{ height: 5, marginHorizontal: 15, marginTop: -5, backgroundColor: "#fced88" }} />
                 <Card.Content>
                     <FlatList
                         nestedScrollEnabled
@@ -27,7 +27,7 @@ const TemplateCard = ({ template }) => {
                         renderItem={({ item }) => (
                             <View style={styles.rule}>
                                 <Text style={styles.ruleTitle}>{item.id} . {item.name}</Text>
-                                <Text style={styles.description}>{item.description}</Text>
+                                <Text style={[styles.description, { color: "black" }]}>{item.description}</Text>
                             </View>
                         )}
                     />

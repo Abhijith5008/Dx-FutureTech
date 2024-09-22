@@ -11,7 +11,7 @@ function App() {
       <SafeAreaProvider style={{ backgroundColor: "white" }}>
         <SafeAreaView>
           <StatusBar
-            barStyle={'dark-content'}
+            barStyle={'default'}
           />
           <Header />
           <Home />

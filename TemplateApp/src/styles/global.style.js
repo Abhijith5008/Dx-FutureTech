@@ -36,7 +36,7 @@ export const styles = StyleSheet.create({
         fontSize: 16,
         textAlign: "left",
         fontWeight: 'bold',
-        color: 'black'
+        color: '#1a2a6c'
     },
     cardTitle: {
         flex: 1,
@@ -49,7 +49,8 @@ export const styles = StyleSheet.create({
     description: {
         marginTop: 10,
         fontSize: 14,
-        color: '#666',
+        fontWeight:"300",
+        color: '#4057b3',
     },
     rule: {
         marginTop: 10,
@@ -114,7 +115,6 @@ export const styles = StyleSheet.create({
     },
     input: {
         flex: 1,
-        paddingVertical: 10,
         paddingHorizontal: 10,
         backgroundColor: '#e6eaf8',
         borderRadius: 5,

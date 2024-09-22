@@ -12,12 +12,12 @@ const Header = () => {
     return (
         <Appbar.Header elevated style={styles.header}>
             {/* Centered logo */}
-            <Appbar.Content 
+            <Appbar.Content
                 title={
                     <View style={styles.logoContainer}>
-                        <Image 
-                            style={styles.logo} 
-                            source={require('../../assets/images/CompanyLogo.png')} 
+                        <Image
+                            style={styles.logo}
+                            source={require('../../assets/images/CompanyLogo.png')}
                         />
                     </View>
                 }
@@ -32,15 +32,15 @@ const Header = () => {
                     </TouchableOpacity>
                 }
             >
-                <Menu.Item onPress={() => { }} title="Option 1" trailingIcon="chevron-down" />
+                <Menu.Item titleStyle={{ color: 'black' }} onPress={() => { }} title="Option 1" trailingIcon="chevron-down" />
                 <Divider />
-                <Menu.Item onPress={() => { }} title="Option 2" trailingIcon="chevron-down" />
+                <Menu.Item titleStyle={{ color: 'black' }} onPress={() => { }} title="Option 2" trailingIcon="chevron-down" />
                 <Divider />
-                <Menu.Item onPress={() => { }} title="Option 3" trailingIcon="chevron-down" />
+                <Menu.Item titleStyle={{ color: 'black' }} onPress={() => { }} title="Option 3" trailingIcon="chevron-down" />
                 <Divider />
-                <Menu.Item onPress={() => { }} title="Option 4" trailingIcon="chevron-down" />
+                <Menu.Item titleStyle={{ color: 'black' }} onPress={() => { }} title="Option 4" trailingIcon="chevron-down" />
                 <Divider />
-                <Menu.Item onPress={() => { }} title="Option 5" trailingIcon="chevron-down" />
+                <Menu.Item titleStyle={{ color: 'black' }} onPress={() => { }} title="Option 5" trailingIcon="chevron-down" />
             </Menu>
             {/* Contact Us button */}
             <TouchableOpacity style={styles.contactButton}>

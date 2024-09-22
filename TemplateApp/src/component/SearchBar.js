@@ -17,6 +17,7 @@ const SearchBar = ({ placeholder, onSearch }) => {
             <TextInput
                 style={styles.input}
                 placeholder={placeholder || 'Search...'}
+                placeholderTextColor={"#1a2a6c"}
                 value={searchText}
                 onChangeText={setSearchText}
             />

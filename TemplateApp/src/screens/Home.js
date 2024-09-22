@@ -2,11 +2,14 @@ import React, { useState } from 'react';
 import {
     FlatList,
     View,
+    Dimensions
 } from 'react-native';
 import Data from '../data/content.json';
 import { styles } from '../styles/global.style';
 import TemplateCard from '../component/TemplateCard';
 import SearchBar from '../component/SearchBar';
+
+const { height } = Dimensions.get('window');
 
 function Home() {
     const [data, setData] = useState(Data);
@@ -21,10 +24,11 @@ function Home() {
             <FlatList
                 data={data}
                 numColumns={1}
+                style={{ marginBottom: height / 3 }}
                 nestedScrollEnabled
                 keyExtractor={(item) => item.id.toString()}
                 renderItem={({ item }) => (
-                    <TemplateCard key={item.id} template={item}/>
+                    <TemplateCard key={item.id} template={item} />
                 )}
             />
         </View>
